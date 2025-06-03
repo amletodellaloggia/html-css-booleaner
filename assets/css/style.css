@@ -3,7 +3,7 @@ body {
 	margin: 0;
 }
 
-/* Header */
+/* Header Top */
 
 header {
 	background-color: #4FA1FD;
@@ -11,8 +11,39 @@ header {
 	height: 175px;
 }
 
-header img{
+header img {
 	height: 30%;
     margin-top: 105px;
     margin-left: 10px;
+}
+
+/* Main Frame */
+/* Article Header */
+
+h1 {
+	padding-left: 10px;
+	margin-bottom: 0;
+}
+#header-article {
+	padding-left: 10px;
+	font-style: normal;
+  	font-size: 1.0rem;
+	color: #808080;
+	}
+
+a {
+  text-decoration: none;
+  color: #7cb9ff;
+}
+time {
+	font-size: 12px;
+}
+
+img {
+	padding-top: 20px;
+}
+
+figcaption{
+	font-size: 12px;
+	color: #000;
 }
