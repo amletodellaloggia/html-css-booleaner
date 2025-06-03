@@ -29,7 +29,7 @@ main {
 h1 {
 	margin-bottom: 0;
 }
-#header-article {
+article {
 	font-style: normal;
   	font-size: 1.0rem;
 	color: #808080;
@@ -51,4 +51,16 @@ figure {
 figcaption{
 	font-size: 12px;
 	color: #000;
+}
+
+/* Paragrafo */
+
+#article-para {
+	padding: 10px 0px 20px 0px;
+}
+
+/* Lista */
+ul {
+	padding: 20px 0px;
+	padding-inline-start: 15px;
 }
