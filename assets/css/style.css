@@ -58,7 +58,11 @@ figcaption {
 /* Paragrafo */
 
 #article-para {
-  padding: 10px 0px 20px 0px;
+  padding: 10px 0px 0px 0px;
+}
+
+p {
+  margin: 20px 0 25px 0;
 }
 
 /* Lista */
@@ -97,4 +101,20 @@ tr {
 
 #tr-alt {
   background-color: #FFFFFF;
+}
+
+/* Aside Content */
+figure {
+	position: relative;
+	padding: 0;
+}
+h3 {
+	color: #808080;
+	/* margin-bottom: 0px; */
+}
+#text-within {
+	color: white;
+	position: absolute;
+	padding: 10px;
+	margin: 0;
 }
