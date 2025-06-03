@@ -1,0 +1,18 @@
+/* CSS Style */
+body {
+	margin: 0;
+}
+
+/* Header */
+
+header {
+	background-color: #4FA1FD;
+	background-image: url(/assets/img/pattern.png);
+	height: 175px;
+}
+
+header img{
+	height: 30%;
+    margin-top: 105px;
+    margin-left: 10px;
+}
